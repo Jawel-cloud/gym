@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/gym/static/css/main.7460ebdd.css",
+    "main.js": "/gym/static/js/main.77062265.js",
+    "static/js/787.015e65be.chunk.js": "/gym/static/js/787.015e65be.chunk.js",
+    "static/media/back.jpg": "/gym/static/media/back.aa16ece38d8a03776667.jpg",
+    "static/media/zumba.jpg": "/gym/static/media/zumba.d67dde789fc94d6c8bfb.jpg",
+    "static/media/kickboxing.jpg": "/gym/static/media/kickboxing.bd0c6939ff20756976cb.jpg",
+    "static/media/yoga.jpg": "/gym/static/media/yoga.0a64d766586a7d9ad0b6.jpg",
+    "static/media/crossfit.jpg": "/gym/static/media/crossfit.f62dc92e8d8e9660e64c.jpg",
+    "static/media/pilates.jpg": "/gym/static/media/pilates.b6ca542b42cf6b226b2d.jpg",
+    "static/media/dance.jpg": "/gym/static/media/dance.c915d51c211f14361dd4.jpg",
+    "static/media/g6.jpg": "/gym/static/media/g6.2dc33d085392111a57f6.jpg",
+    "static/media/g1.jpg": "/gym/static/media/g1.8c43a9593644ddbde94c.jpg",
+    "static/media/g4.jpg": "/gym/static/media/g4.cc634f3bafc6b3ee51b9.jpg",
+    "static/media/g5.jpg": "/gym/static/media/g5.74d4245521f7c171a87a.jpg",
+    "static/media/g3.jpg": "/gym/static/media/g3.660055bb38cf0b8e9ea6.jpg",
+    "static/media/g8.jpg": "/gym/static/media/g8.d50bfe2f5b2966e829de.jpg",
+    "static/media/g2.jpg": "/gym/static/media/g2.3fca0c0fead7982ae4e4.jpg",
+    "static/media/g7.jpg": "/gym/static/media/g7.c0a53db80cde07f93cd0.jpg",
+    "static/media/t2.jpg": "/gym/static/media/t2.04a5c767ee588bf74336.jpg",
+    "static/media/t1.jpg": "/gym/static/media/t1.0125bf820ad42d781c05.jpg",
+    "static/media/t3.jpg": "/gym/static/media/t3.b3b206bf003959def3bc.jpg",
+    "index.html": "/gym/index.html",
+    "main.7460ebdd.css.map": "/gym/static/css/main.7460ebdd.css.map",
+    "main.77062265.js.map": "/gym/static/js/main.77062265.js.map",
+    "787.015e65be.chunk.js.map": "/gym/static/js/787.015e65be.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7460ebdd.css",
+    "static/js/main.77062265.js"
+  ]
+}
