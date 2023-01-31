@@ -14,7 +14,7 @@ function GymPage() {
     <Router>
       <div>
         <nav>
-          <NavLink to="/" exact>Home</NavLink>
+          <NavLink to="/gym" exact>Home</NavLink>
           <NavLink to="/classes">Classes</NavLink>
           <NavLink to="/pricing">Pricing</NavLink>
           <NavLink to="/about">About Us</NavLink>
@@ -27,7 +27,7 @@ function GymPage() {
         </header>
 
         <Routes>
-          <Route path="/" element={<HomePage />} />
+          <Route path="/gym" element={<HomePage />} />
           <Route path="classes" element={<Classes />} />
           <Route path="pricing" element={<Pricing />} />
           <Route path="about" element={<About />} />
